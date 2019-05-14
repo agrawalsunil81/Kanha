@@ -1,0 +1,3 @@
+[submodule "procurement-app"]
+	path = procurement-app
+	url = https://github.com/agrawalsunil81/Kanha.git
