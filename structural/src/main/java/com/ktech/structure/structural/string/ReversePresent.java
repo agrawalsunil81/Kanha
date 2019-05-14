@@ -19,10 +19,8 @@ public class ReversePresent {
 				if(isReverseWord(list.get(i), list.get(j)))
 					return list.get(i);
 			}			
-		}
-		
-		return "-1";
-		
+		}		
+		return "-1";		
 	}
 
 	private boolean isReverseWord(String str1, String str2) {

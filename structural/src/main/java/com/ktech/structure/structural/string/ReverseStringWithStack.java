@@ -1,4 +1,4 @@
-package com.ktech.structure.structural;
+package com.ktech.structure.structural.string;
 
 import java.util.Stack;
 
