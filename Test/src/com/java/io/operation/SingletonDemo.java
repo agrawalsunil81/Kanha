@@ -13,6 +13,7 @@ public class SingletonDemo {
 		singleton.setValue(2);
 		System.out.println(singleton.getValue());
 		System.out.println(singleton1.getValue());
+		
 	}
 
 }
